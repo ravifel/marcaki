@@ -1,0 +1,29 @@
+.formulario {
+    background-color: #0d6efd2b;
+    padding: 27px;
+    border-radius: 10px;
+}
+
+.login {
+    width: 500px;
+    background-color: #0d6efd2b;
+    padding: 27px;
+    border-radius: 10px;
+}
+
+.loginInput {
+    width: 250px;
+}
+
+.homeImagem {
+    width: 200px;
+}
+
+.corpoImagens {
+    text-align: center;
+}
+
+.fundo {
+    background-color: #0d6efd2b;
+    border-radius: 10px;
+}
